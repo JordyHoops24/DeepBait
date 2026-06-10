@@ -1,9 +1,18 @@
-# DeepBait
+# DeepBait — AI Phishing Awareness
 
-Website: https://yanellramirez.github.io/DeepBait/ 
+A cybersecurity awareness website educating the public about AI-powered phishing attacks.
 
-Site narrative: [https://docs.google.com/document/d/1ADdw52suSmnQ7f5mE0ViLTxhtMdGWgxFtbPD2c_Egcg/edit?tab=t.0](https://docs.google.com/document/d/1ADdw52suSmnQ7f5mE0ViLTxhtMdGWgxFtbPD2c_Egcg/edit?usp=sharing)
+**Live Site:** https://jordyhoops24.github.io/DeepBait/
 
-Wireframe: https://www.figma.com/design/Avlqhien2ONSl5VgvRCRVx/Cyber-Centials-Wireframe?node-id=0-1&t=e4xHxeEroGAik6BW-1 
+Built with HTML, CSS, and JavaScript. Deployed via GitHub Pages.
 
-High Fidelity Prototype: https://www.figma.com/design/MypGaR7brthebQo3ONLvuj/High-Fidelity-Prototype?node-id=0-1&t=hRRzlbUKk7Z5lnSB-1 
+## About
+DeepBait informs the general public about AI-powered phishing — designed to be easily understood by those who are not tech-savvy. Every internet user should learn how to recognize and report AI-powered phishing attempts due to their convincing nature and the impact they have on the internet and its users worldwide.
+
+## Topics Covered
+- What is AI-powered phishing
+- How AI is being used by attackers
+- How to protect yourself
+
+## Contact
+jmoren199@calstatela.edu
